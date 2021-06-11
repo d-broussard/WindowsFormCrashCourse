@@ -1,0 +1,10 @@
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\bin\Debug\To-Do-App.exe.config
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\bin\Debug\To-Do-App.exe
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\bin\Debug\To-Do-App.pdb
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To-Do-App.csprojAssemblyReference.cache
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To_Do_App.ToDoApp.resources
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To_Do_App.Properties.Resources.resources
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To-Do-App.csproj.GenerateResource.cache
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To-Do-App.csproj.CoreCompileInputs.cache
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To-Do-App.exe
+C:\Users\Devin\Desktop\Dev\WindowsFormCrashCourse\To-Do-App\To-Do-App\obj\Debug\To-Do-App.pdb
